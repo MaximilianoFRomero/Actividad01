@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Maximiliano Romero\\Escritorio\\EDI-3-main\\Actividad01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52ED9906-12C2-4C15-8596-9F8679E6D015}|Actividad01\\Actividad01.csproj|d:\\users\\maximiliano romero\\escritorio\\edi-3-main\\actividad01\\actividad01\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ED9906-12C2-4C15-8596-9F8679E6D015}|Actividad01\\Actividad01.csproj|solutionrelative:actividad01\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ED9906-12C2-4C15-8596-9F8679E6D015}|Actividad01\\Actividad01.csproj|d:\\users\\maximiliano romero\\escritorio\\edi-3-main\\actividad01\\actividad01\\models\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ED9906-12C2-4C15-8596-9F8679E6D015}|Actividad01\\Actividad01.csproj|solutionrelative:actividad01\\models\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ED9906-12C2-4C15-8596-9F8679E6D015}|Actividad01\\Actividad01.csproj|d:\\users\\maximiliano romero\\escritorio\\edi-3-main\\actividad01\\actividad01\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52ED9906-12C2-4C15-8596-9F8679E6D015}|Actividad01\\Actividad01.csproj|solutionrelative:actividad01\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\EDI-3-main\\Actividad01\\Actividad01\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Actividad01\\Models\\Order.cs",
+              "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\EDI-3-main\\Actividad01\\Actividad01\\Models\\Order.cs",
+              "RelativeToolTip": "Actividad01\\Models\\Order.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:15:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxCalculator.cs",
+              "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\EDI-3-main\\Actividad01\\Actividad01\\Models\\TaxCalculator.cs",
+              "RelativeDocumentMoniker": "Actividad01\\Models\\TaxCalculator.cs",
+              "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\EDI-3-main\\Actividad01\\Actividad01\\Models\\TaxCalculator.cs",
+              "RelativeToolTip": "Actividad01\\Models\\TaxCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:15:35.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\EDI-3-main\\Actividad01\\Actividad01\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad01\\Views\\Form1.cs",
+              "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\EDI-3-main\\Actividad01\\Actividad01\\Views\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad01\\Views\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:15:22.158Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

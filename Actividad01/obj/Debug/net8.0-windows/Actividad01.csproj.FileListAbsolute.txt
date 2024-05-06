@@ -1,0 +1,16 @@
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.exe
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.deps.json
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.runtimeconfig.json
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.pdb
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.csproj.GenerateResource.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.AssemblyInfoInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.AssemblyInfo.cs
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\refint\Actividad01.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.pdb
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.genruntimeconfig.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\ref\Actividad01.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.Views.Form1.resources
